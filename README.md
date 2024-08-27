@@ -37,6 +37,6 @@ This analysis focuses on developing a deep learning model using a neural network
     - Loss: 0.5515
 
 ### Summary:
-The deep learning models achieved an accuracy between 72.30% and 72.68%. While the architectural modifications did not significantly boost performance, they illustrate the adaptability of neural networks to different configurations.
+The deep learning models achieved an accuracy between 72.53% and 72.68%. While the architectural modifications did not significantly boost performance, they illustrate the adaptability of neural networks to different configurations.
 
 To enhance performance further, more advanced methods could be considered, such as tuning learning rates, trying different optimizers, or implementing complex architectures like convolutional (CNNs) or recurrent neural networks (RNNs) if the data warrants it. Additionally, ensemble methods like bagging or boosting could combine multiple models for improved accuracy. Regularization techniques like dropout or L2 regularization could also be employed to prevent overfitting. Continued experimentation and refinement are recommended to improve the model's predictive capabilities.
